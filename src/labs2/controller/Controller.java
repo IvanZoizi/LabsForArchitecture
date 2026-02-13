@@ -7,5 +7,4 @@ public interface Controller<T> {
     boolean post(T data);
     boolean update(T data, T newData);
     boolean delete(T data);
-
 }

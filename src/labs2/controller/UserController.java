@@ -2,8 +2,6 @@ package labs2.controller;
 
 import labs2.models.Models;
 import labs2.views.View;
-
-import java.util.ArrayList;
 import java.util.List;
 
 public class UserController<T> implements Controller<T>{
